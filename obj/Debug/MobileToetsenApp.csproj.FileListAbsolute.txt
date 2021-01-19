@@ -1,0 +1,10 @@
+C:\Users\NextProgram\source\repos\MobileToetsenApp\bin\Debug\MobileToetsenApp.exe.config
+C:\Users\NextProgram\source\repos\MobileToetsenApp\bin\Debug\MobileToetsenApp.exe
+C:\Users\NextProgram\source\repos\MobileToetsenApp\bin\Debug\MobileToetsenApp.pdb
+C:\Users\NextProgram\source\repos\MobileToetsenApp\obj\Debug\MobileToetsenApp.csprojAssemblyReference.cache
+C:\Users\NextProgram\source\repos\MobileToetsenApp\obj\Debug\MobileToetsenApp.Form1.resources
+C:\Users\NextProgram\source\repos\MobileToetsenApp\obj\Debug\MobileToetsenApp.Properties.Resources.resources
+C:\Users\NextProgram\source\repos\MobileToetsenApp\obj\Debug\MobileToetsenApp.csproj.GenerateResource.cache
+C:\Users\NextProgram\source\repos\MobileToetsenApp\obj\Debug\MobileToetsenApp.csproj.CoreCompileInputs.cache
+C:\Users\NextProgram\source\repos\MobileToetsenApp\obj\Debug\MobileToetsenApp.exe
+C:\Users\NextProgram\source\repos\MobileToetsenApp\obj\Debug\MobileToetsenApp.pdb
